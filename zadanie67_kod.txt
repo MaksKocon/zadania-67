@@ -1,0 +1,59 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<LINK href="zadanie67_koco.css" rel="stylesheet" type="text/CSS">
+</head>
+<body>
+
+ <p>
+ Kabel elektryczny – rodzaj przewodu elektrycznego izolowanego, jedno- lub wielożyłowego,
+ otoczonego wspólną powłoką. Chroni ona przed przedostaniem się wilgoci lub innych substancji szkodliwie
+ działających na izolację, uszkodzeniami mechanicznymi oraz porażeniem prądem elektrycznym. 
+ </p>  
+ 
+ <p>
+Monitor komputerowy – ogólna nazwa jednego z urządzeń wyjścia do bezpośredniej komunikacji użytkownika z komputerem.
+ Zadaniem monitora jest natychmiastowa wizualizacja wyników działania programów uruchomionych na komputerze.
+ </p> 
+ 
+ <h1>Css są piękne</h1>
+ 
+<p id="akapit"> Kolejnym pseudoelementem jest :first-line, który w przeciwieństwie do poprzednika <br>
+obejmuje formatowaniem całą pierwszą linię, a nie tylko pierwszą literę</p>
+ 
+</body>
+</html> 
+
+
+
+
+
+ p:first-letter {
+      font-size: 124px;
+      color: gold;
+}
+    
+p {
+      font-size: 18pt;
+      color: blue;
+}
+
+h1{
+	color: purple;
+	font-size: 100px;
+}
+
+h1:first-letter{
+	color: silver;
+	font-size: 150px;
+}
+
+
+    
+p#akapit:first-line {
+	font-size: 12pt;
+	color: red;
+
+}
+
+

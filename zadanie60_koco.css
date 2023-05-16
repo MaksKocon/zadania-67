@@ -1,0 +1,29 @@
+div#blok1_kocon{
+	width: 615pt;
+	background : green;
+}
+
+div#blok2_kocon{
+	width: 615pt;
+	background : green;
+}
+
+div#blok3_kocon{
+	width: 615pt;
+	background : green;
+}
+
+div#blok1_kocon:hover{
+	font-size: 19mm;
+	background: red;
+}
+
+div#blok2_kocon:hover{
+	font-size: 19mm;
+	background: orange;
+}
+
+div#blok3_kocon:hover{
+	font-size: 19mm;
+	background: yellow;
+}

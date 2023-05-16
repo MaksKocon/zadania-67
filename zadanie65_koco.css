@@ -1,0 +1,33 @@
+div#pierwszy_kocon{
+	width:715pt;
+	margin-left: auto;
+	margin-right: auto;
+	background: rgb(173,216,230);
+	border-radius:11px;
+	border:rgb(0,0,128) solid 5px;
+}
+
+div#drugi_kocon{
+	width:915pt;
+	background: rgb(255,192,203);
+	border-radius:12px;
+	border:rgb(0,0,0) solid 3px;
+}
+
+div#trzeci_kocon{
+	width:1115pt;
+	margin-left: auto;
+	margin-right: auto;
+	background: rgb(144, 238, 144);
+	border-radius:18px;
+	border:rgb(143,0,255) solid 7px;
+}
+
+p{
+	font-size:11pt;
+}
+
+p:first-child{
+	font-size:7mm;
+	font-style:italic;
+}
